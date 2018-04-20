@@ -1,7 +1,7 @@
 # How to create a compute canada account
 * Link: https://ccdb.computecanada.ca/account_application
 
-* CCRI: "mpe-741-01"
+* CCRI: ""
 
 * Steps:
 <p align="center">
