@@ -15,5 +15,5 @@
 * Cedar: ssh account@cedar.computecanada.ca.
 
 * Instructions on how to set up a virtual environment where you can then install Python modules. 
-    * [[Python Setup]](https://docs.computecanada.ca/wiki/Python)
+    * [[Python & virtual environment setup]](https://docs.computecanada.ca/wiki/Python)
     * [[Running jobs]](https://docs.computecanada.ca/wiki/Running_jobs)
